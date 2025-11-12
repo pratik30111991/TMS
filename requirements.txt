@@ -1,0 +1,6 @@
+pyodbc
+keyboard
+pillow
+openpyxl
+pandas
+pyinstaller
